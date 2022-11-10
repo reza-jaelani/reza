@@ -16,6 +16,7 @@ GLfloat back_amb_diff[]= {0.4,0.7,0.1,1.0};
 GLfloat spe[]= {0.25,0.25,0.25,1.0};
 GLfloat theta=0,alpha=0, dt=0.5;
 
+//reza
 //body roket
 void rocket_body(){
     glPushMatrix ();
